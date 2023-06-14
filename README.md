@@ -31,12 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![](EX10_OP1.jpg)
+## Output:
+![](EX10_OP2.png)
 
-### Output:
-
-
-### Name:
-### Register Number:
+### Name: RONICK AAKSHATH P
+### Register Number: 212222240084
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
