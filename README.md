@@ -31,7 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![](EX10_OP1.jpg)
+![](EX10_OP1(Small).jpg)
 ## Output:
 ![](EX10_OP2.png)
 
